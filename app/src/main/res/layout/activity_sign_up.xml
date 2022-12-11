@@ -41,21 +41,6 @@
         android:layout_marginTop="20dp"
         android:layout_marginBottom="20dp">
 
-<!--&lt;!&ndash;        Full Name&ndash;&gt;-->
-<!--        <com.google.android.material.textfield.TextInputLayout-->
-<!--            android:id="@+id/reg_name"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:hint="Full Name"-->
-<!--            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">-->
-
-<!--            <com.google.android.material.textfield.TextInputEditText-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:inputType="text"/>-->
-
-<!--        </com.google.android.material.textfield.TextInputLayout>-->
-
 <!--        Username-->
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/reg_username"
@@ -72,36 +57,6 @@
                 android:inputType="text" />
 
         </com.google.android.material.textfield.TextInputLayout>
-
-<!--&lt;!&ndash;        Email&ndash;&gt;-->
-<!--        <com.google.android.material.textfield.TextInputLayout-->
-<!--            android:id="@+id/reg_email"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:hint="Email"-->
-<!--            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">-->
-
-<!--            <com.google.android.material.textfield.TextInputEditText-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:inputType="textEmailAddress"/>-->
-
-<!--        </com.google.android.material.textfield.TextInputLayout>-->
-
-<!--&lt;!&ndash;        Mobile No&ndash;&gt;-->
-<!--        <com.google.android.material.textfield.TextInputLayout-->
-<!--            android:id="@+id/reg_phoneNo"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:hint="Phone No"-->
-<!--            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">-->
-
-<!--            <com.google.android.material.textfield.TextInputEditText-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:inputType="number"/>-->
-
-<!--        </com.google.android.material.textfield.TextInputLayout>-->
 
 <!--        Password-->
         <com.google.android.material.textfield.TextInputLayout
